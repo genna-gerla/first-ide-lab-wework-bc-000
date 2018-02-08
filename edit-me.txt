@@ -1,1 +1,1 @@
-puts "Genna Gerla"
+puts "Genna Gerla".uppercase
