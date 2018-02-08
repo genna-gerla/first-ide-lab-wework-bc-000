@@ -1,1 +1,1 @@
-puts "Genna Gerla".uppercase
+puts "Genna Gerla".length
