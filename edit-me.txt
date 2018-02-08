@@ -1,4 +1,8 @@
-puts "Genna Gerla".length
+name = "Genna Gerla"
+age = 13
+print name
+print "age is"
+puts age
 =begin
 this is gennas first class
 =end
